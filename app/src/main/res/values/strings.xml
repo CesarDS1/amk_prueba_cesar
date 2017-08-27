@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AmkPrueba</string>
+    <string name="form_username">UserName</string>
+    <string name="form_password">Password</string>
+
+    <string name="error_user_empty">El usuario no puede ser vacio</string>
+    <string name="error_password_empty">El password no puede ser vacio </string>
+    <string name="error_validations">Este campo tiene que tener más de 8 caracteres, una mayúscula y no debe contener espacios ni caracteres especiales</string>
+
+
+
+</resources>
