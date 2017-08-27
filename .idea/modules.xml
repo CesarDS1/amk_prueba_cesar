@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AmkPrueba.iml" filepath="$PROJECT_DIR$/AmkPrueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amk_prueba_cesar.iml" filepath="$PROJECT_DIR$/amk_prueba_cesar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
